@@ -1,0 +1,22 @@
+resultType 单表结果映射且列名=属性名 表名=类名
+resultMap
+(1)当列名和属性名，表名和类名不一致
+（2）多表查询使用resultMap
+
+
+
+export JAVA_HOME=/opt/javasoft/jdk1.8.0_144 
+export PATH=$PATH:$JAVA_HOME/bin
+
+
+
+C:\Users\Administrator\AppData\Roaming
+
+
+
+
+
+
+
+373528914@qq.com
+a57565182
