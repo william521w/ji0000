@@ -1,0 +1,8 @@
+
+server:
+  port : 8090
+
+mjh:
+  str1 : hello world
+  val : ${random.int}
+  output : mjh say:${mjh.str1} ,${mjh.val}
